@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "NotoSansArabic";
+  src: url("../public/NotoSansArabic.ttf");
+}
+
+* {
+  font-family: "NotoSansArabic";
+  user-select: none;
+}
